@@ -1,0 +1,43 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table{
+    border-collapse:collapse;
+    font-size: 12pt;
+    border:1px solid #b4acac;
+    vertical-align: middle;
+    align-content: center;
+}
+h1{
+    color: black;
+    font-size: 4vw;
+}
+
+td{
+    padding: 0px;
+    height: 25px;
+    vertical-align: middle;
+}
+
+th{
+    background-color: steelblue;
+    color: white;
+    height: 30px;
+}
+
+h3{
+    font-weight: 600;
+    color: steelblue;
+}
+
+.btn-delete{
+    border:0px solid #db5d59;
+    background: #db5d59 url('hapus.png') no-repeat 3px 2px;
+    height:6px;
+    width: 3px;
+    padding-right: 15px;
+    padding-top: 0px;
+    align-content: center;
+}
+
+
